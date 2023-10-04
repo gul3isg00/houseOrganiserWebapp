@@ -13,7 +13,7 @@ There are currently 4 sections on the webapp, each accessible through the tabs a
 - **Account**
 ### Home
 
-![home.jpeg](home.jpeg)
+<img src="home.jpeg" alt="image" width="400" height="auto">
 
 The **Home** tab displays all people who are currently registered in the house, and whether they are currently in, indicated by the circles by their names. A **green circle** means that they are currently in the house, a **red circle** means that they are out.
 
@@ -27,7 +27,7 @@ Also on this page you can add a **note** by your name for everyone to see. You c
 *This section is currently a W.I.P*
 ### Account
 
-![account.jpeg](account.jpeg)
+<img src="account.jpeg" alt="image" width="400" height="auto">
 
 The **Account** tab is where all of the account related functionality comes into play.
 
