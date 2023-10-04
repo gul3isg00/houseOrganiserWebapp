@@ -1,0 +1,76 @@
+body {
+	background-color: #04AA6D;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+}
+
+.header {
+  padding: 4vw;
+  background: #3e8e41;
+}
+
+
+.dot {
+    height: 10vw;
+    width: 10vw;
+    font-size: 15vw;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.name {
+    padding: 10px;
+    display: inline-block;
+}
+
+.container {
+    display: block;
+    float: left;
+}
+
+.toggle {
+    margin-left: 10px;
+}
+
+.buttons {
+    margin: 5px;
+}
+
+.wrapper {
+    display:flex;
+    flex-direction: column;
+}
+
+.chores {
+    float:left; 
+}
+
+.btn-group {
+	text-align: center;
+}
+
+.btn-group button {
+  background-color: #04AA6D; /* Green background */
+  color: white;
+  border: none;
+  font-size: 3vh;
+  font-weight: bold;
+  width: 22vw;
+  height: 5vh;
+  padding: 0.5vw 1vw;
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
