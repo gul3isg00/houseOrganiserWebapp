@@ -107,7 +107,6 @@ const App = () => {
 	return (
 		<div className="wrapper">
 			<div className="header">
-  				<h1>111 Beeston Road</h1>
   				<p>House Manager</p>
 			</div>
 
